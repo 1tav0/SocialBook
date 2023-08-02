@@ -4,3 +4,4 @@ import bodyParser from "body-parser";
 import cors from "cors";
 
 //connect the api
+//connect mongoose
